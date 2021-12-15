@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-JpaRepositoryApplication<jpa-repository>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole",
+			"mainClass": "com.ribasapi.jparepository.JpaRepositoryApplication",
+			"projectName": "jpa-repository",
+			"args": ""
+		}
+	]
+}
